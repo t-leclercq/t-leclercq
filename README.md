@@ -1,5 +1,5 @@
 # Hi there 👋
-## Développeur web en formation
+## Développeur web, administrateur systèmes | Webdev, sysadmin
 ### Version 🇫🇷
 
 - 🔭 Je travaille actuellement sur un projet d'intégration continue et de livraison continue (CI/CD) qui verra le jour grâce à [Apache Maven](https://maven.apache.org/), [Django](https://www.djangoproject.com/) et un peu d'huile de coude 💪
